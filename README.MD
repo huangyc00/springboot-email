@@ -1,1 +1,1 @@
-spring boot 集成email
+spring boot 集成email功能
